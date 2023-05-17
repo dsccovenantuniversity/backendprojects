@@ -19,4 +19,4 @@ When you see a project you'd like to complete, simply:
 
 Follow the instructions in the repo's README and make your own little server that can manage the backend of a to-do list app.
 
-**Repository: [https://github.com/dsccovenantuniversity/todo-backend-api](https://github.com/dsccovenantuniversity/todo-backend-api)
+**Repository: [https://github.com/dsccovenantuniversity/todo-backend-api](https://github.com/dsccovenantuniversity/todo-backend-api)**
